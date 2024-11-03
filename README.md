@@ -20,6 +20,7 @@ Curated by [thegayagenda.fyi](https://thegayagenda.fyi/) - Check us out for LGBT
 | [Gaingels](https://gaingels.com) | Angel Network | Angel network for LGBT gay founders and executives |
 | [Chasing Rainbows](https://www.chasingrainbows.vc/) | VC Fund | A venture capital fund focused on investing in LGBTQ+ founders. |
 | [identity.vc](https://identity.vc) | VC Fund | Invests in early-stage startups with LGBTQ+ leadership across Europe and beyond. |
+| [LGBT VC](https://www.lgbtvc.org/) | VC Network | Non-profit network connecting LGBT VCs and Founders |
 
 ## Communities and Organizations
 | Name | Type | Location | Summary |
